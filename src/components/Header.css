@@ -1,0 +1,21 @@
+.header {
+  margin-top: 40px;
+}
+
+.header__title {
+  text-align: center;
+}
+
+.header__body {
+  margin-top: 40px;
+}
+.header__bodyLeft > form > button,
+input {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.header__bodyRight > form > button,
+input {
+  margin-top: 10px;
+  margin-left: 5px;
+}
